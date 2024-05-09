@@ -1,0 +1,24 @@
+@font-face {
+  font-family: bodoflo;
+  src: url(bodoflo.ttf);
+}
+
+@font-face {
+  font-family: bambank;
+  src: url(bambank.ttf);
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+ 
+canvas {
+  display: block;
+}
+
+
+#homepage {
+  background-image: url("../img/eloisebackground.png");
+  background-color: #FFD4DF;
+}

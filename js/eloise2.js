@@ -6,7 +6,7 @@ var currentTextTopLine = "";
 var currentTextBottomLine = "";
 
 function preload(){
-  font= loadFont('../img/bodoflo.ttf');
+  font= loadFont('img/bodoflo.ttf');
 }
 
 

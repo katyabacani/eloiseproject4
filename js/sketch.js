@@ -7,8 +7,8 @@ var sixY;
 var eloiseY;
 
 function preload() {
-  font= loadFont('../img/bodoflo.ttf');
-  font2 = loadFont('../img/bambank.ttf');
+  font= loadFont('img/bodoflo.ttf');
+  font2 = loadFont('img/bambank.ttf');
   
 }
 
